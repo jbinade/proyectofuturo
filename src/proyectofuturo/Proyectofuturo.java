@@ -24,7 +24,7 @@ public class Proyectofuturo {
     }
    
     
-    public static String veredicto(String valor1, String valor2){
+    private static String veredicto(String valor1, String valor2){
         
  
         valor1 = "10";
